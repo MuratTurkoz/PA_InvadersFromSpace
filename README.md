@@ -1,2 +1,2 @@
-# PA_InvadersFromSpace
-Panteon Akademi ile Invaders From Space oyunu
+# PA2-InvadersFromSpace
+Invaders From Space
